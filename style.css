@@ -89,7 +89,7 @@ button {
 
 .chat-bubble::after {
     content: "";
-    position: absolute;
+    position: sticky;
     bottom: 0;
     left: -10px;
     top: 10px;
