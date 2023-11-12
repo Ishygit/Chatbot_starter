@@ -103,9 +103,12 @@ button {
 .chat-bubble.user {
     background-color: #f2f2f2;
     text-align: left;
+    float: right;
 }
 
 .chat-bubble.bot {
     background-color: #e2e2ff;
     text-align: right;
+    float: left;
 }
+
