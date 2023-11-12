@@ -86,7 +86,6 @@ button {
     width: 70%;
     position: relative;
 }
-/* ghg */
 
 .chat-bubble::after {
     content: "";
