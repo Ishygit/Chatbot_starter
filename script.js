@@ -1,7 +1,7 @@
 const questions = [
     // ... (unchanged array of questions) ...
     
-    "is",
+    "what is period poverty?",
     "How does period poverty affect women and girls?",
     "What are the causes of period poverty?",
     "What are the consequences of not having access to menstrual products?",
@@ -61,7 +61,7 @@ function appendMessage(sender, message) {
 function getResponse(question) {
     // ... (unchanged getResponse function) ...
     switch (question) {
-        case "is":
+        case "what is period poverty?":
             return "Period poverty refers to the lack of access to menstrual hygiene products, sanitation facilities, and education about menstruation. It affects individuals who cannot afford or access these essential items, often leading to health, social, and economic challenges.";
 
         case "How does period poverty affect women and girls?":
